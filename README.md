@@ -9,7 +9,7 @@
 
 🤝 I'm open to collaborating on interesting projects and learning opportunities!
 
-- 🌱 Currently taking **web development courses** and **ethical hacking lessons** in TryHackMe
+- 🌱 Currently taking the **CS50 Web and Software development courses**
 
 - 📫 Reach me at **<a href="mailto:eugenestha12@gmail.com">eugenestha12@gmail.com</a>** and **.tenshoku** over on discord
 
