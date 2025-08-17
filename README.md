@@ -11,8 +11,6 @@
 <br><br>
 🤝 Open to collaborating on interesting projects and learning opportunities!
 
-- 🌱 Currently participating in the [**DokiJam on Itch.io**](https://itch.io/jam/doki-jam)
-
 - 📫 Reach me at [**eugenestha12@gmail.com**](mailto:eugenestha12@gmail.com) and **.tenshoku** over on discord
 
 <br>
@@ -79,6 +77,7 @@
 
 - 🗡️ [The New Blade](https://justdelpu.itch.io/the-new-blade) — *Shovel Jam 2025*  
   A short top-down action RPG.
+- 🔎 [Phantom(ato) Thief in the Museum](https://tenshoku.itch.io/phantomato-thief-in-the-museum) - *DokiJam 2025*
 
 <br/>
 
