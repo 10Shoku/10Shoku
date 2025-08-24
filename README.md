@@ -24,13 +24,14 @@
   </tr>
 
   <tr>
-    <td><strong>Programming Languages</strong></td>
+    <td><strong>Programming</strong></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30"/>
     </td>
-    <td>C, C++, Python</td>
+    <td>C, C++, Python, Bash</td>
   </tr>
 
   <tr>
@@ -54,21 +55,34 @@
   </tr>
 
   <tr>
-    <td><strong>Editors / OS</strong></td>
+    <td><strong>Editors</strong></td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
     </td>
-    <td>VSCode, Linux</td>
+    <td>NeoVIM, VIM, VSCode</td>
   </tr>
 
   <tr>
     <td><strong>Graphic Tools</strong></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30"/>
     </td>
-    <td>Photoshop, GIMP</td>
+    <td>GIMP, Photoshop</td>
+  </tr>
+
+  <tr>
+    <td><strong>OS</strong></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/endeavouros-team/Branding/refs/heads/main/icons/EndeavourOS-icon.png" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30"/>
+    </td>
+    <td>
+      Primarily on <b>EndeavourOS</b>, an Arch-based Linux distro. Always open to discussions about EOS.<br>
+      Also on <b>Windows</b> for heavy gaming and certain Windows specific tasks.
+    </td>
   </tr>
 </table>
 
